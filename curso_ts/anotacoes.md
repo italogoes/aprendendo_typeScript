@@ -465,5 +465,3 @@ function soma2(a: number, b: number): number{ return a + b } console.log(soma2(1
     console.log(numbers[1])
 }``<br>
 ``showNumber([1, 2])``
-
-## teste
